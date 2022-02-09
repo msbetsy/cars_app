@@ -1,5 +1,9 @@
 asgiref==3.5.0
-Django==4.0.2
-python-dotenv==0.19.2
+djangorestframework
+Django
+python-dotenv
 sqlparse==0.4.2
+requests
 tzdata==2021.5
+
+
